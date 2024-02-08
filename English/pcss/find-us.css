@@ -1,0 +1,13 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 1015px;}
+#imCell_8 { display: block; position: relative; overflow: hidden; width: 853px; min-height: 605px; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid transparent; border-right: 5px solid transparent;}
+#imCellStyle_8 { position: relative; width: 817px; min-height: 520px; padding: 67px 18px 18px 18px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_8 { position: absolute; padding: 2px 0; top: 23px; left: 6px; right: 6px; text-align: center; font-family: Trebuchet MS; font-size: 12pt; font-style: normal; font-weight: bold; color: #FFFFFF; background-color: transparent; z-index: 4;}
+#imCellStyleGraphics_8 { position: absolute; top: 88px; bottom: 88px; left: 74px; right: 74px; background: transparent url('../images/6.png') repeat center center;}
+#imCellStyleGraphicsB_8 { position: absolute; bottom: 0; left: 74px; right: 74px; height: 88px; background: transparent url('../images/6_b.png') repeat-x center bottom;}
+#imCellStyleGraphicsBL_8 { position: absolute; bottom: 0; left: 0; width: 74px; height: 88px; background: transparent url('../images/6_bl.png') repeat left bottom;}
+#imCellStyleGraphicsBR_8 { position: absolute; bottom: 0; right: 0; width: 74px; height: 88px; background: transparent url('../images/6_br.png') repeat right bottom;}
+#imCellStyleGraphicsL_8 { position: absolute; top: 88px; bottom: 88px; left: 0; width: 74px; background: transparent url('../images/6_l.png') repeat-y left center;}
+#imCellStyleGraphicsR_8 { position: absolute; top: 88px; bottom: 88px; right: 0; width: 74px; background: transparent url('../images/6_r.png') repeat-y right center;}
+#imCellStyleGraphicsT_8 { position: absolute; top: 0; left: 74px; right: 74px; height: 88px; background: transparent url('../images/6_t.png') repeat-x center top;}
+#imCellStyleGraphicsTL_8 { position: absolute; top: 0; left: 0; width: 74px; height: 88px; background: transparent url('../images/6_tl.png') repeat left top;}
+#imCellStyleGraphicsTR_8 { position: absolute; top: 0; right: 0; width: 74px; height: 88px; background: transparent url('../images/6_tr.png') repeat right top;}

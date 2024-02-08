@@ -1,0 +1,24 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 1015px;}
+#imCell_11 { display: block; position: relative; overflow: hidden; width: 830px; min-height: 446px; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid transparent; border-right: 5px solid transparent;}
+#imCellStyle_11 { position: relative; width: 785px; min-height: 359px; padding: 67px 20px 20px 25px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_11 { position: absolute; padding: 2px 0; top: 23px; left: 6px; right: 6px; text-align: center; font-family: Trebuchet MS; font-size: 12pt; font-style: normal; font-weight: bold; color: #FFFFFF; background-color: transparent; z-index: 4;}
+#imCellStyleGraphics_11 { position: absolute; top: 88px; bottom: 88px; left: 74px; right: 74px; background: transparent url('../images/6.png') repeat center center;}
+#imCellStyleGraphicsB_11 { position: absolute; bottom: 0; left: 74px; right: 74px; height: 88px; background: transparent url('../images/6_b.png') repeat-x center bottom;}
+#imCellStyleGraphicsBL_11 { position: absolute; bottom: 0; left: 0; width: 74px; height: 88px; background: transparent url('../images/6_bl.png') repeat left bottom;}
+#imCellStyleGraphicsBR_11 { position: absolute; bottom: 0; right: 0; width: 74px; height: 88px; background: transparent url('../images/6_br.png') repeat right bottom;}
+#imCellStyleGraphicsL_11 { position: absolute; top: 88px; bottom: 88px; left: 0; width: 74px; background: transparent url('../images/6_l.png') repeat-y left center;}
+#imCellStyleGraphicsR_11 { position: absolute; top: 88px; bottom: 88px; right: 0; width: 74px; background: transparent url('../images/6_r.png') repeat-y right center;}
+#imCellStyleGraphicsT_11 { position: absolute; top: 0; left: 74px; right: 74px; height: 88px; background: transparent url('../images/6_t.png') repeat-x center top;}
+#imCellStyleGraphicsTL_11 { position: absolute; top: 0; left: 0; width: 74px; height: 88px; background: transparent url('../images/6_tl.png') repeat left top;}
+#imCellStyleGraphicsTR_11 { position: absolute; top: 0; right: 0; width: 74px; height: 88px; background: transparent url('../images/6_tr.png') repeat right top;}
+#imObjectForm_11 { font-family: Tahoma, sans serif; font-size: 8pt; text-align: left; }
+#imObjectForm_11 label, #imObjectForm_11 .checkbox, #imObjectForm_11 .radiobutton { color: #000000; font-family: Tahoma, sans serif; font-size: 8pt; }
+#imObjectForm_11 fieldset { margin: 0; padding: 10px 0 0 0; }
+#imObjectForm_11 fieldset.first { margin: 0; padding: 0; }
+#imObjectForm_11 div.legend { color: #000000; font-family: Tahoma, sans serif; font-size: 8pt; border-bottom: 1px solid #808080; }
+#imObjectForm_11 input, #imObjectForm_11 select, #imObjectForm_11 textarea { margin: 2px 0 3px; color: #000000; border: 1px solid #808080; background-color: #FFFFFF; font-family: Tahoma, sans serif; font-size: 8pt; padding-left: 1px; padding-right: 1px;}
+#imObjectForm_11 input[type="checkbox"], #imObjectForm_11 input[type="radio"] { border: 0; background-color: transparent; }
+#imObjectForm_11 input.imFormFocus, #imObjectForm_11 select.imFormFocus, #imObjectForm_11 textarea.imFormFocus { color: #000000; background-color: #FFFFE0; }
+#imObjectForm_11 input[type="checkbox"].imFormFocus, #imObjectForm_11 input[type="radio"].imFormFocus { border: 0; background-color: transparent; }
+#imObjectForm_11 input.imFormMark, #imObjectForm_11 textarea.imFormMark { border: 1px solid #FF0000; }
+#imObjectForm_11 input[type="submit"], #imObjectForm_11 input[type="reset"], #imObjectForm_11 input[type="button"] { padding: 0; cursor: pointer; color: #000000; border: 1px solid #808080; background-color: #D3D3D3; vertical-align: top; line-height: 8px;height: 20px; }

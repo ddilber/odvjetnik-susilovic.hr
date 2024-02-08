@@ -1,0 +1,107 @@
+#imCell_2 { display: block; position: relative; overflow: hidden; width: 505px; min-height: 270px; border-top: 20px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid transparent; border-right: 5px solid transparent;}
+#imCellStyle_2 { position: relative; width: 505px; min-height: 250px; padding: 20px 0px 0px 0px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_2 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_7 { display: block; position: relative; overflow: hidden; width: 502px; min-height: 285px; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid transparent; border-right: 5px solid transparent;}
+#imCellStyle_7 { position: relative; width: 457px; min-height: 182px; padding: 67px 20px 36px 25px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_7 { position: absolute; padding: 2px 0; top: 23px; left: 6px; right: 6px; text-align: center; font-family: Trebuchet MS; font-size: 12pt; font-style: normal; font-weight: bold; color: #FFFFFF; background-color: transparent; z-index: 4;}
+#imCellStyleGraphics_7 { position: absolute; top: 88px; bottom: 88px; left: 74px; right: 74px; background: transparent url('../images/6.png') repeat center center;}
+#imCellStyleGraphicsB_7 { position: absolute; bottom: 0; left: 74px; right: 74px; height: 88px; background: transparent url('../images/6_b.png') repeat-x center bottom;}
+#imCellStyleGraphicsBL_7 { position: absolute; bottom: 0; left: 0; width: 74px; height: 88px; background: transparent url('../images/6_bl.png') repeat left bottom;}
+#imCellStyleGraphicsBR_7 { position: absolute; bottom: 0; right: 0; width: 74px; height: 88px; background: transparent url('../images/6_br.png') repeat right bottom;}
+#imCellStyleGraphicsL_7 { position: absolute; top: 88px; bottom: 88px; left: 0; width: 74px; background: transparent url('../images/6_l.png') repeat-y left center;}
+#imCellStyleGraphicsR_7 { position: absolute; top: 88px; bottom: 88px; right: 0; width: 74px; background: transparent url('../images/6_r.png') repeat-y right center;}
+#imCellStyleGraphicsT_7 { position: absolute; top: 0; left: 74px; right: 74px; height: 88px; background: transparent url('../images/6_t.png') repeat-x center top;}
+#imCellStyleGraphicsTL_7 { position: absolute; top: 0; left: 0; width: 74px; height: 88px; background: transparent url('../images/6_tl.png') repeat left top;}
+#imCellStyleGraphicsTR_7 { position: absolute; top: 0; right: 0; width: 74px; height: 88px; background: transparent url('../images/6_tr.png') repeat right top;}
+#imTextObject_7 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_7 a { color: inherit; }
+#imTextObject_7 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_7 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 8pt; line-height: 17px; *line-height: 1.55; }
+#imTextObject_7 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_7 table td { padding: 4px 3px 4px 3px; margin: 0px;line-height: 20px;}
+#imTextObject_7 p { margin: 0; padding: 0; }
+#imTextObject_7 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_7 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_7 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_7 .imUl { text-decoration: underline; }
+#imTextObject_7 .ff0 { font-family: Tahoma; }
+#imTextObject_7 .ff1 { font-family: Symbol; }
+#imTextObject_7 .ff2 { font-family: Verdana; }
+#imTextObject_7 .cf1 { color: #000000; }
+#imTextObject_7 .cf2 { color: #FFFFFF; }
+#imTextObject_7 .cf3 { color: #000000; }
+#imTextObject_7 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_7 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_7 .cb1 { background-color: #000000; }
+#imTextObject_7 .cb2 { background-color: transparent; }
+#imTextObject_7 .cb3 { background-color: #000000; }
+#imCell_8 { display: block; position: relative; overflow: hidden; width: 502px; min-height: 311px; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid transparent; border-right: 5px solid transparent;}
+#imCellStyle_8 { position: relative; width: 457px; min-height: 144px; padding: 67px 20px 100px 25px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_8 { position: absolute; padding: 2px 0; top: 23px; left: 6px; right: 6px; text-align: center; font-family: Trebuchet MS; font-size: 12pt; font-style: normal; font-weight: bold; color: #FFFFFF; background-color: transparent; z-index: 4;}
+#imCellStyleGraphics_8 { position: absolute; top: 88px; bottom: 88px; left: 74px; right: 74px; background: transparent url('../images/6.png') repeat center center;}
+#imCellStyleGraphicsB_8 { position: absolute; bottom: 0; left: 74px; right: 74px; height: 88px; background: transparent url('../images/6_b.png') repeat-x center bottom;}
+#imCellStyleGraphicsBL_8 { position: absolute; bottom: 0; left: 0; width: 74px; height: 88px; background: transparent url('../images/6_bl.png') repeat left bottom;}
+#imCellStyleGraphicsBR_8 { position: absolute; bottom: 0; right: 0; width: 74px; height: 88px; background: transparent url('../images/6_br.png') repeat right bottom;}
+#imCellStyleGraphicsL_8 { position: absolute; top: 88px; bottom: 88px; left: 0; width: 74px; background: transparent url('../images/6_l.png') repeat-y left center;}
+#imCellStyleGraphicsR_8 { position: absolute; top: 88px; bottom: 88px; right: 0; width: 74px; background: transparent url('../images/6_r.png') repeat-y right center;}
+#imCellStyleGraphicsT_8 { position: absolute; top: 0; left: 74px; right: 74px; height: 88px; background: transparent url('../images/6_t.png') repeat-x center top;}
+#imCellStyleGraphicsTL_8 { position: absolute; top: 0; left: 0; width: 74px; height: 88px; background: transparent url('../images/6_tl.png') repeat left top;}
+#imCellStyleGraphicsTR_8 { position: absolute; top: 0; right: 0; width: 74px; height: 88px; background: transparent url('../images/6_tr.png') repeat right top;}
+#imTextObject_8 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_8 a { color: inherit; }
+#imTextObject_8 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_8 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 8pt; line-height: 17px; *line-height: 1.55; }
+#imTextObject_8 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_8 table td { padding: 4px 3px 4px 3px; margin: 0px;line-height: 20px;}
+#imTextObject_8 p { margin: 0; padding: 0; }
+#imTextObject_8 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_8 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_8 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_8 .imUl { text-decoration: underline; }
+#imTextObject_8 .ff0 { font-family: Tahoma; }
+#imTextObject_8 .ff1 { font-family: Symbol; }
+#imTextObject_8 .ff2 { font-family: Times New Roman; }
+#imTextObject_8 .ff3 { font-family: Symbol; }
+#imTextObject_8 .ff4 { font-family: Wingdings; }
+#imTextObject_8 .cf1 { color: #000000; }
+#imTextObject_8 .cf2 { color: #FFFFFF; }
+#imTextObject_8 .cf3 { color: #000000; }
+#imTextObject_8 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_8 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_8 .cb1 { background-color: #000000; }
+#imTextObject_8 .cb2 { background-color: transparent; }
+#imTextObject_8 .cb3 { background-color: #000000; }
+#imCell_10 { display: block; position: relative; overflow: hidden; width: 505px; min-height: 311px; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid transparent; border-right: 5px solid transparent;}
+#imCellStyle_10 { position: relative; width: 460px; min-height: 224px; padding: 67px 20px 20px 25px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_10 { position: absolute; padding: 2px 0; top: 23px; left: 6px; right: 6px; text-align: center; font-family: Trebuchet MS; font-size: 12pt; font-style: normal; font-weight: bold; color: #FFFFFF; background-color: transparent; z-index: 4;}
+#imCellStyleGraphics_10 { position: absolute; top: 88px; bottom: 88px; left: 74px; right: 74px; background: transparent url('../images/6.png') repeat center center;}
+#imCellStyleGraphicsB_10 { position: absolute; bottom: 0; left: 74px; right: 74px; height: 88px; background: transparent url('../images/6_b.png') repeat-x center bottom;}
+#imCellStyleGraphicsBL_10 { position: absolute; bottom: 0; left: 0; width: 74px; height: 88px; background: transparent url('../images/6_bl.png') repeat left bottom;}
+#imCellStyleGraphicsBR_10 { position: absolute; bottom: 0; right: 0; width: 74px; height: 88px; background: transparent url('../images/6_br.png') repeat right bottom;}
+#imCellStyleGraphicsL_10 { position: absolute; top: 88px; bottom: 88px; left: 0; width: 74px; background: transparent url('../images/6_l.png') repeat-y left center;}
+#imCellStyleGraphicsR_10 { position: absolute; top: 88px; bottom: 88px; right: 0; width: 74px; background: transparent url('../images/6_r.png') repeat-y right center;}
+#imCellStyleGraphicsT_10 { position: absolute; top: 0; left: 74px; right: 74px; height: 88px; background: transparent url('../images/6_t.png') repeat-x center top;}
+#imCellStyleGraphicsTL_10 { position: absolute; top: 0; left: 0; width: 74px; height: 88px; background: transparent url('../images/6_tl.png') repeat left top;}
+#imCellStyleGraphicsTR_10 { position: absolute; top: 0; right: 0; width: 74px; height: 88px; background: transparent url('../images/6_tr.png') repeat right top;}
+#imTextObject_10 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_10 a { color: inherit; }
+#imTextObject_10 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_10 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 8pt; line-height: 17px; *line-height: 1.55; }
+#imTextObject_10 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_10 table td { padding: 4px 3px 4px 3px; margin: 0px;line-height: 20px;}
+#imTextObject_10 p { margin: 0; padding: 0; }
+#imTextObject_10 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_10 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_10 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_10 .imUl { text-decoration: underline; }
+#imTextObject_10 .ff0 { font-family: Tahoma; }
+#imTextObject_10 .cf1 { color: #000000; }
+#imTextObject_10 .cf2 { color: #FFFFFF; }
+#imTextObject_10 .cf3 { color: #0000FF; }
+#imTextObject_10 .cf4 { color: #000000; }
+#imTextObject_10 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_10 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_10 .cb1 { background-color: #000000; }
+#imTextObject_10 .cb2 { background-color: transparent; }
+#imTextObject_10 .cb3 { background-color: #0000FF; }
+#imTextObject_10 .cb4 { background-color: #000000; }

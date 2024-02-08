@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>http://www.odvjetnik-susilovic.hr/index.html</loc>
+		<lastmod>2011-12-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odvjetnik-susilovic.hr/kontakt.html</loc>
+		<lastmod>2011-12-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odvjetnik-susilovic.hr/imsitemap.html</loc>
+		<lastmod>2011-12-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odvjetnik-susilovic.hr/podru-je-djelovanja.html</loc>
+		<lastmod>2011-12-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://www.odvjetnik-susilovic.hr/gdje-smo.html</loc>
+		<lastmod>2011-12-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>
